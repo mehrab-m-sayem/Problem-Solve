@@ -8,4 +8,5 @@ class Solution():
             else:
                 sum += val[s[i]]
         return sum
-            
+x = Solution()
+x.romanToInt("XII")
